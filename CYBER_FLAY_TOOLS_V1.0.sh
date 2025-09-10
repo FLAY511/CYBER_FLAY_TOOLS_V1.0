@@ -64,7 +64,7 @@ banner(){
 EOF
   echo -e "${GRN}        CYBER FLAY v1.0${RST}"
   echo -e "${CYN}\>\>\> TOOLS INI DIBUAT OLEH CYBER FLAY <<<${RST}\n"
-}
+  
 
 pause(){ read -rp "Tekan Enter untuk lanjut..." _; }
 
